@@ -53,7 +53,7 @@
     "acorn-jsx": "^5.3.1",
     "acorn-stage3": "^4.0.0",
     "acorn-walk": "^8.0.0",
-    "chalk": "^4.1.0",
+    "chalk": "^5.1.2",
     "clone-deep": "^4.0.0",
     "commander": "^9.0.0",
     "deepmerge": "^4.0.0",
