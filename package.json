@@ -63,7 +63,7 @@
     "gulp-sort": "^2.0.0",
     "i18next": "*",
     "lodash": "^4.0.0",
-    "parse5": "^6.0.0",
+    "parse5": "^7.1.2",
     "sortobject": "^4.0.0",
     "through2": "^4.0.0",
     "vinyl": "^2.2.0",
