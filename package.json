@@ -66,7 +66,7 @@
     "parse5": "^6.0.0",
     "sortobject": "^4.0.0",
     "through2": "^4.0.0",
-    "vinyl": "^2.2.0",
+    "vinyl": "^3.0.0",
     "vinyl-fs": "^3.0.1"
   },
   "devDependencies": {
